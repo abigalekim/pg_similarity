@@ -1,3 +1,5 @@
+LOAD 'pg_similarity';
+
 --
 -- errors
 --
